@@ -12,4 +12,6 @@ public class ReUsableMethods {
 	}
 //another change1
 //another change2
+//feature-6
+//feature-6
 }
