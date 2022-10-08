@@ -25,5 +25,8 @@ public class SumValidation {
 		int purchaseAmount =js.getInt("dashboard.purchaseAmount");
 		Assert.assertEquals(sum, purchaseAmount);
 		
+		//feature-8
+		//feature-8
+		
 	}
 }
