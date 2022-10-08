@@ -65,9 +65,15 @@ System.out.println(totalAmount);
 //git change65-server
 //git change66-server
 //git change67-server
+<<<<<<< HEAD
 //git change68-server
 //git change69-server
 //git change70-server
+=======
+//git change68-server-online
+//git change69-server-online
+//git change70-server-online
+>>>>>>> master
  
 	}
 
