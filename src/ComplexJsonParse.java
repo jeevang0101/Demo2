@@ -70,7 +70,10 @@ System.out.println(totalAmount);
 //git change70-server
 //git change68-server-online
 //git change69-server-online
-//git change70-server-online 
+//git change70-server-online
+//git change74
+//git change75
+//git change76
 	}
 
 }
