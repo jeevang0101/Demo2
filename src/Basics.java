@@ -54,7 +54,11 @@ public class Basics {
 	System.out.println(actualAddress);
 	Assert.assertEquals(actualAddress, "Pacific ocean");
 	//Cucumber Junit, Testng
-	
+	//Git merge1
+	//git merge2
+	//jddvhv
+	//fdakjdf
+
 	
 	
 	
@@ -65,16 +69,7 @@ public class Basics {
 	
 
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 	}
 
 }
