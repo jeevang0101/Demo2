@@ -67,6 +67,8 @@ public class payload {
 		
 		
 }
-	
+	function add(){
+	console.log('amol')
+	}
 	
 }
